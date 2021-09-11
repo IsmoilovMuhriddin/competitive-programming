@@ -40,3 +40,6 @@
 */result
 *.inp
 *.out
+*.oac
+*/.cph
+*.dSYM/
